@@ -6,7 +6,7 @@ const http = require('http');
 const hostname = 'localhost';
 const port = 3000;
 
-const dbRouter =require('./src/routes/dbRoutes')
+const dbRouter =require('./src/routes/dbRoutes/dbRouter')
 
 
 app.use('/Db',dbRouter);
