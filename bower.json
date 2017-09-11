@@ -1,0 +1,23 @@
+{
+  "name": "lexicon-cup-contest",
+  "description": "\"my project (c)nuwan\"",
+  "main": "app.js",
+  "authors": [
+    "exenone <seeunuwan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "popper.js": "^1.12.5",
+    "bootstrap": "^3.3.7",
+    
+    
+  }
+}
